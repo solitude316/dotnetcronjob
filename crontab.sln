@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crontab", "crontab\crontab.csproj", "{0FFB00A7-4E39-4386-9B83-4E1D5410496E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crontabTest", "crontabTest\crontabTest.csproj", "{90B875ED-B5B9-4492-B374-CC1C278A369D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFB00A7-4E39-4386-9B83-4E1D5410496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFB00A7-4E39-4386-9B83-4E1D5410496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFB00A7-4E39-4386-9B83-4E1D5410496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFB00A7-4E39-4386-9B83-4E1D5410496E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B875ED-B5B9-4492-B374-CC1C278A369D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B875ED-B5B9-4492-B374-CC1C278A369D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B875ED-B5B9-4492-B374-CC1C278A369D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B875ED-B5B9-4492-B374-CC1C278A369D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
